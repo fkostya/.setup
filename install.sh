@@ -1,5 +1,5 @@
 #!/bin/sh
 
 
-ehco "downloading github/fkostya/.setup/install.sh"
+echo "downloading github/fkostya/.setup/install.sh"
 
